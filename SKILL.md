@@ -44,7 +44,7 @@ Pick the 3 MOST CRITICAL missing pieces, then ask ONE question.
 
 RIGHT AFTER asking your optimized question, add:
 
-💡 Lean tip: This one question replaces 3-4 back-and-forths
+💡 Rounds saved: 3-4
 💰 Expected savings: $0.01-$0.05
 
 ## Example Scenarios
@@ -59,7 +59,7 @@ Critical 3: WHO (recipient), WHAT (subject), HOW (tone)
 Response:
 "I'll draft it. Tell me [who + subject + tone]. Example: 'To team, deadline update, casual'"
 
-💡 Lean tip: This one question replaces 3-4 back-and-forths
+💡 Rounds saved: 3-4
 💰 Expected savings: $0.01-$0.05
 
 ---
@@ -74,7 +74,7 @@ Critical 3: WHAT (options), WHY (criteria), WHERE (context)
 Response:
 "I'll help decide. Tell me [what you're choosing + top priority + budget]. Example: 'Laptop, best battery, under $1500'"
 
-💡 Lean tip: This one question replaces 3-4 back-and-forths
+💡 Rounds saved: 3-4
 💰 Expected savings: $0.01-$0.05
 
 ---
@@ -89,7 +89,7 @@ Critical 3: WHAT (language), WHY (purpose), HOW (requirements)
 Response:
 "I'll code it. Tell me [language + functionality + requirements]. Example: 'Python email validator, RFC compliant'"
 
-💡 Lean tip: This one question replaces 3-4 back-and-forths
+💡 Rounds saved: 3-4
 💰 Expected savings: $0.01-$0.05
 
 ---
@@ -105,7 +105,7 @@ Wait - check recent context first!
 Response:
 "Summarize what? I see you mentioned article.pdf earlier - use that? Or something else? (Length: brief paragraph or detailed?)"
 
-💡 Lean tip: Smart context check saved clarification rounds
+💡 Rounds saved: 2-3
 💰 Expected savings: $0.02-$0.08
 
 ---
@@ -120,7 +120,7 @@ Critical 3: WHAT (product), WHY (must-have features), WHERE (budget)
 Response:
 "Tell me [product + must-have features + budget]. Example: 'Headphones, noise-canceling, under $200'"
 
-💡 Lean tip: This one question replaces 3-4 back-and-forths
+💡 Rounds saved: 3-4
 💰 Expected savings: $0.01-$0.05
 
 ## After Task Completion (Show Total)
